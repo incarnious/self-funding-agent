@@ -21,10 +21,6 @@ feed:
 
 # Exclude from build
 exclude:
-  - assets/css/main.css
-  - assets/js/main.js
-  - _layouts/
-  - _includes/
   - README.md
   - Gemfile
   - Gemfile.lock
