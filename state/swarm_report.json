@@ -1,6 +1,87 @@
 {
   "source": "swarm",
   "workers": 100,
-  "candidates": 0,
-  "products": []
+  "candidates": 52,
+  "products": [
+    {
+      "product": "Philips BT3211/15 Corded & Cordless Beard Trimmer",
+      "search_query": "Philips BT3211 15 beard trimmer men",
+      "category": "men's grooming",
+      "heat": 10,
+      "commission": 0.09,
+      "opportunity": 90.0
+    },
+    {
+      "product": "Minimalist 2% Salicylic Acid Face Wash",
+      "search_query": "Minimalist Salicylic Acid Face Wash",
+      "category": "face & skin care",
+      "heat": 10,
+      "commission": 0.09,
+      "opportunity": 90.0
+    },
+    {
+      "product": "Beardo Godfather Beard Oil for Men",
+      "search_query": "Beardo Godfather beard oil 30ml",
+      "category": "men's grooming",
+      "heat": 9,
+      "commission": 0.09,
+      "opportunity": 81.0
+    },
+    {
+      "product": "Gillette Mach3 Bold Manual Shaving Razor",
+      "search_query": "Gillette Mach3 Bold razor for men",
+      "category": "men's grooming",
+      "heat": 9,
+      "commission": 0.09,
+      "opportunity": 81.0
+    },
+    {
+      "product": "The Derma Co 10% Niacinamide Face Serum",
+      "search_query": "The Derma Co 10 Niacinamide Face Serum",
+      "category": "face & skin care",
+      "heat": 9,
+      "commission": 0.09,
+      "opportunity": 81.0
+    },
+    {
+      "product": "Cetaphil Gentle Skin Cleanser",
+      "search_query": "Cetaphil Gentle Skin Cleanser",
+      "category": "face & skin care",
+      "heat": 9,
+      "commission": 0.09,
+      "opportunity": 81.0
+    },
+    {
+      "product": "Bio-Oil Skincare Oil for Stretch Marks and Scars",
+      "search_query": "Bio Oil Stretch Marks Skincare Oil",
+      "category": "baby & mother care",
+      "heat": 9,
+      "commission": 0.09,
+      "opportunity": 81.0
+    },
+    {
+      "product": "Foldable Cloth Storage Bag Organizer with Clear Window and Handles",
+      "search_query": "foldable cloth storage bag organizer for wardrobe",
+      "category": "home organisation",
+      "heat": 10,
+      "commission": 0.08,
+      "opportunity": 80.0
+    },
+    {
+      "product": "Kore 20kg Home Gym Set with PVC Dumbbells",
+      "search_query": "Kore 20kg home gym set dumbbells",
+      "category": "fitness & gym gear",
+      "heat": 10,
+      "commission": 0.08,
+      "opportunity": 80.0
+    },
+    {
+      "product": "TP-Link Tapo C200 360° 1080p Full HD Pan/Tilt Smart Wi-Fi Security Camera",
+      "search_query": "TP Link Tapo C200 smart camera",
+      "category": "smart home accessories",
+      "heat": 10,
+      "commission": 0.08,
+      "opportunity": 80.0
+    }
+  ]
 }

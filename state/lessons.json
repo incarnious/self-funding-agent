@@ -1,57 +1,73 @@
 {
-  "ts": "2026-09-21T22:27:24.881537+00:00",
-  "generation": 15,
-  "assets_seen": 30,
+  "ts": "2026-09-22T19:21:45.237840+00:00",
+  "generation": 18,
+  "assets_seen": 36,
   "best_styles": [
     [
+      "price_shock",
+      1.92,
+      9
+    ],
+    [
       "shock_stat",
-      1.79,
-      120
+      1.795,
+      183
     ],
     [
       "secret_reveal",
-      1.756,
-      118
+      1.754,
+      148
+    ]
+  ],
+  "weak_styles": [
+    [
+      "shock_stat",
+      1.795,
+      183
+    ],
+    [
+      "secret_reveal",
+      1.754,
+      148
     ],
     [
       "question_hook",
       1.74,
-      15
+      18
     ]
   ],
-  "weak_styles": [],
   "best_categories": [
     [
+      "face & skin care",
+      1.997,
+      7
+    ],
+    [
       "men's grooming",
-      1.98,
-      18
+      1.982,
+      35
     ],
     [
       "smart home accessories",
       1.9,
-      5
-    ],
-    [
-      "beauty",
-      1.843,
-      117
+      8
     ]
   ],
   "weak_categories": [
     [
       "grooming",
       1.74,
-      37
+      49
     ],
     [
       "kitchen",
-      1.591,
-      45
+      1.588,
+      63
     ],
     [
       "decor",
       1.58,
-      21
+      30
     ]
   ],
   "video": {
@@ -59,8 +75,8 @@
     "avg_opportunity": 76.5
   },
   "post_only": {
-    "count": 28,
-    "avg_opportunity": 72.893
+    "count": 34,
+    "avg_opportunity": 74.853
   },
-  "guidance": "lean into men's grooming, smart home accessories, beauty; favor hooks that Open with a surprising number or statistic."
+  "guidance": "lean into face & skin care, men's grooming, smart home accessories; favor hooks that Lead with a 'you won't believe the price' angle; avoid over-using the shock stat angle."
 }

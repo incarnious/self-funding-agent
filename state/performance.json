@@ -352,5 +352,83 @@
     "manual_link": false,
     "created": "2026-09-21T22:27:24.273026+00:00",
     "logged": "2026-09-21T22:27:24.824104+00:00"
+  },
+  {
+    "id": "a0cd5739056e",
+    "product": "Philips BT3211/15 Corded & Cordless Beard Trimmer",
+    "category": "men's grooming",
+    "style": "shock_stat",
+    "opportunity": 90.0,
+    "video": null,
+    "image": "media/philips-bt321115-corded-cordless-beard-trimmer-shock_stat/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Philips+BT3211+15+beard+trimmer+men&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-09-22T19:00:17.852588+00:00",
+    "logged": "2026-09-22T19:01:34.184592+00:00"
+  },
+  {
+    "id": "c3c73964edcb",
+    "product": "Minimalist 2% Salicylic Acid Face Wash",
+    "category": "face & skin care",
+    "style": "shock_stat",
+    "opportunity": 90.0,
+    "video": null,
+    "image": "media/minimalist-2-salicylic-acid-face-wash-shock_stat/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Minimalist+Salicylic+Acid+Face+Wash&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-09-22T19:04:05.300916+00:00",
+    "logged": "2026-09-22T19:05:21.261331+00:00"
+  },
+  {
+    "id": "72ef0f6cb347",
+    "product": "Beardo Godfather Beard Oil for Men",
+    "category": "men's grooming",
+    "style": "price_shock",
+    "opportunity": 81.0,
+    "video": null,
+    "image": "media/beardo-godfather-beard-oil-for-men-price_shock/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Beardo+Godfather+beard+oil+30ml&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-09-22T19:07:52.401938+00:00",
+    "logged": "2026-09-22T19:09:08.442169+00:00"
+  },
+  {
+    "id": "ac47974f9af8",
+    "product": "Gillette Mach3 Bold Manual Shaving Razor",
+    "category": "men's grooming",
+    "style": "price_shock",
+    "opportunity": 81.0,
+    "video": null,
+    "image": "media/gillette-mach3-bold-manual-shaving-razor-price_shock/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Gillette+Mach3+Bold+razor+for+men&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-09-22T19:11:39.741039+00:00",
+    "logged": "2026-09-22T19:12:55.561832+00:00"
+  },
+  {
+    "id": "5a220dcb66e7",
+    "product": "The Derma Co 10% Niacinamide Face Serum",
+    "category": "face & skin care",
+    "style": "price_shock",
+    "opportunity": 81.0,
+    "video": null,
+    "image": "media/the-derma-co-10-niacinamide-face-serum-price_shock/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=The+Derma+Co+10+Niacinamide+Face+Serum&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-09-22T19:15:26.726558+00:00",
+    "logged": "2026-09-22T19:16:42.683677+00:00"
+  },
+  {
+    "id": "30ab5dfc1236",
+    "product": "Cetaphil Gentle Skin Cleanser",
+    "category": "face & skin care",
+    "style": "price_shock",
+    "opportunity": 81.0,
+    "video": null,
+    "image": "media/cetaphil-gentle-skin-cleanser-price_shock/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Cetaphil+Gentle+Skin+Cleanser&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-09-22T19:19:13.773003+00:00",
+    "logged": "2026-09-22T19:20:29.638221+00:00"
   }
 ]
