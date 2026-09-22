@@ -23,6 +23,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Synchronize repository before running agent
+        run: |
+          set -euo pipefail
+          branch="${GITHUB_REF_NAME}"
+          git fetch origin "$branch"
+          git switch -C "$branch" "origin/$branch"
 
       - uses: actions/setup-python@v5
         with:
@@ -89,12 +98,21 @@ jobs:
 
       - name: Commit results
         run: |
+          set -euo pipefail
+          branch="${GITHUB_REF_NAME}"
           git config user.name "autonomous-agent"
           git config user.email "agent@users.noreply.github.com"
-          # Pull first to avoid conflicts, then commit our changes on top
-          git pull --rebase --autostash origin main || true
-          # NB: only site + learning state is committed; heavy videos stay as
-          # build artifacts to keep the Pages repo lean.
+          git switch -C "$branch"
           git add docs state
-          git commit -m "agent: new content + ledger + learned strategy" || echo "nothing to commit"
-          git push origin HEAD:main
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+            exit 0
+          fi
+          git commit -m "agent: new content + ledger + learned strategy"
+          git fetch origin "$branch"
+          if ! git rebase "origin/$branch"; then
+            echo "::error::Unable to rebase generated changes onto origin/$branch"
+            git rebase --abort || true
+            exit 1
+          fi
+          git push origin "HEAD:$branch"
