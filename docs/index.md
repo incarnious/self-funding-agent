@@ -64,7 +64,7 @@ date: 2000-01-01
     </div>
 
     <div class="category-grid">
-      <a id="smartwatches" class="category-card" href="{{ sm_first }}">
+      <a id="smartwatches" class="category-card" href="{{ sm_first | relative_url }}">
         <span class="category-icon" aria-hidden="true">
           <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><rect x="5" y="7" width="18" height="14" rx="4" stroke="currentColor" stroke-width="2"/><circle cx="14" cy="14" r="3" stroke="currentColor" stroke-width="2"/><path d="M10 7V5a2 2 0 012-2h4a2 2 0 012 2v2M10 21v2a2 2 0 002 2h4a2 2 0 002-2v-2" stroke="currentColor" stroke-width="2"/></svg>
         </span>
@@ -72,7 +72,7 @@ date: 2000-01-01
         <span class="category-count">{{ sm_count }} guides</span>
       </a>
 
-      <a id="audio" class="category-card" href="{{ ao_first }}">
+      <a id="audio" class="category-card" href="{{ ao_first | relative_url }}">
         <span class="category-icon" aria-hidden="true">
           <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M6 11v6M10 7v14M14 9v10M18 5v18M22 13v2" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
         </span>
@@ -80,7 +80,7 @@ date: 2000-01-01
         <span class="category-count">{{ ao_count }} guides</span>
       </a>
 
-      <a id="home" class="category-card" href="{{ sh_first }}">
+      <a id="home" class="category-card" href="{{ sh_first | relative_url }}">
         <span class="category-icon" aria-hidden="true">
           <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M4 12L14 4l10 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 10v12h14V10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </span>
@@ -88,7 +88,7 @@ date: 2000-01-01
         <span class="category-count">{{ sh_count }} guides</span>
       </a>
 
-      <a id="kitchen" class="category-card" href="{{ ki_first }}">
+      <a id="kitchen" class="category-card" href="{{ ki_first | relative_url }}">
         <span class="category-icon" aria-hidden="true">
           <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M8 14h12M10 4v10M14 4v10M18 4v10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M14 14v8a3 3 0 003 3h2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
         </span>
@@ -96,7 +96,7 @@ date: 2000-01-01
         <span class="category-count">{{ ki_count }} guides</span>
       </a>
 
-      <a id="health" class="category-card" href="{{ he_first }}">
+      <a id="health" class="category-card" href="{{ he_first | relative_url }}">
         <span class="category-icon" aria-hidden="true">
           <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M14 6a8 8 0 018 8H6a8 8 0 018-8z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M14 4v4M14 14l5-3M14 14l-5 3M14 14l2 5M14 14l-2 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
         </span>
@@ -128,7 +128,7 @@ date: 2000-01-01
               </div>
               <div class="post-card-content">
                 <h3 class="post-card-title">
-                  <a class="post-card-link" href="{{ p.url }}">{{ p.title }}</a>
+                  <a class="post-card-link" href="{{ p.url | relative_url }}">{{ p.title }}</a>
                 </h3>
                 <p class="post-card-excerpt">{{ p.description | truncate: 130 }}</p>
                 <div class="post-card-meta">
@@ -165,9 +165,9 @@ date: 2000-01-01
               </video>
               <div class="video-card-content" style="padding:var(--spacing-4);">
                 <h3 class="video-card-title" style="font-size:var(--fs-lg);font-weight:600;margin-bottom:var(--spacing-2);">
-                  <a href="{{ p.url }}" style="color:var(--color-text);text-decoration:none;">{{ p.title }}</a>
+                  <a href="{{ p.url | relative_url }}" style="color:var(--color-text);text-decoration:none;">{{ p.title }}</a>
                 </h3>
-                <a href="{{ p.url }}" class="btn btn-secondary" style="font-size:var(--fs-sm);">Watch Test →</a>
+                <a href="{{ p.url | relative_url }}" class="btn btn-secondary" style="font-size:var(--fs-sm);">Watch Test →</a>
               </div>
             </article>
           {% endif %}
