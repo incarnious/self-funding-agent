@@ -91,9 +91,10 @@ jobs:
         run: |
           git config user.name "autonomous-agent"
           git config user.email "agent@users.noreply.github.com"
+          # Pull first to avoid conflicts, then commit our changes on top
+          git pull --rebase --autostash origin main || true
           # NB: only site + learning state is committed; heavy videos stay as
           # build artifacts to keep the Pages repo lean.
           git add docs state
           git commit -m "agent: new content + ledger + learned strategy" || echo "nothing to commit"
-          git pull --rebase --autostash || true
-          git push
+          git push origin HEAD:main
