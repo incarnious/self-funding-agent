@@ -20,6 +20,20 @@ description: "{{ page.excerpt | strip_html | truncate: 160 }}"
   </div>
 </header>
 
+{% assign video_path = site.baseurl | append: "/media/" | append: page.slug | append: "/short.mp4" %}
+{% if page.video_url %}
+{% assign video_path = page.video_url %}
+{% endif %}
+
+{% if video_path %}
+<div class="post-video" style="margin-bottom: var(--spacing-8);">
+  <video controls preload="metadata" style="width:100%;max-width:800px;border-radius:var(--radius-xl);background:#000;">
+    <source src="{{ video_path }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+{% endif %}
+
 <article class="post-content">
   {{ content }}
   
@@ -44,7 +58,7 @@ description: "{{ page.excerpt | strip_html | truncate: 160 }}"
 </article>
 
 <!-- Related Posts -->
-{% assign related = site.posts | where: "category", page.category | reject: "title", page.title | sort: "date" | reverse | limit: 3 %}
+{% assign related = site.pages | where_exp: "p", "p.path contains 'posts/' and p.category == page.category and p.title != page.title" | sort: "date" | reverse | limit: 3 %}
 {% if related.size > 0 %}
 <section class="section" style="background: var(--color-bg-alt);" aria-labelledby="related-title">
   <div class="container">
