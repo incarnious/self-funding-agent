@@ -1,0 +1,78 @@
+---
+layout: default
+title: "{{ page.title }}"
+description: "{{ page.excerpt | strip_html | truncate: 160 }}"
+---
+
+<header class="post-header">
+  <div class="container">
+    <div class="post-meta">
+      <span class="post-category">{{ page.category | default: "Guide" }}</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% if page.read_time %}
+      <span>{{ page.read_time }} min read</span>
+      {% endif %}
+    </div>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.excerpt %}
+    <p style="font-size: var(--fs-lg); color: var(--color-text-secondary); max-width: 720px;">{{ page.excerpt }}</p>
+    {% endif %}
+  </div>
+</header>
+
+<article class="post-content">
+  {{ content }}
+  
+  {% if page.buy_url %}
+  <div class="buy-box">
+    <div class="buy-box-content">
+      <div class="buy-box-title">Ready to Buy?</div>
+      <p class="buy-box-description">We've found the best current prices on Amazon India. Prices update daily.</p>
+      <a href="{{ page.buy_url }}" class="btn btn-accent btn-lg" target="_blank" rel="noopener sponsored">
+        Check Current Price →
+      </a>
+    </div>
+  </div>
+  {% endif %}
+  
+  <hr style="margin: var(--spacing-12) 0; border-color: var(--color-border-light);">
+  
+  <div style="font-size: var(--fs-sm); color: var(--color-text-secondary);">
+    <p><strong>Disclosure:</strong> As an Amazon Associate we earn from qualifying purchases. This guide contains affiliate links (tag: <code>muneshkumarsh-21</code>). You pay the same price; we earn a commission that funds our testing.</p>
+    <p><strong>Methodology:</strong> Products tested for minimum 7 days with instrumented measurement. <a href="{{ site.baseurl }}/#methodology">Read our full testing protocol →</a></p>
+  </div>
+</article>
+
+<!-- Related Posts -->
+{% assign related = site.posts | where: "category", page.category | reject: "title", page.title | sort: "date" | reverse | limit: 3 %}
+{% if related.size > 0 %}
+<section class="section" style="background: var(--color-bg-alt);" aria-labelledby="related-title">
+  <div class="container">
+    <h2 id="related-title" class="section-title" style="font-size: var(--fs-2xl);">More in {{ page.category }}</h2>
+    <div class="featured-grid">
+      {% for post in related %}
+      <article class="post-card" role="listitem">
+        <a href="{{ post.url | relative_url }}" class="post-card-link" aria-label="Read {{ post.title }}">
+          <div class="post-card-image">
+            <div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:var(--color-text-muted);font-size:var(--fs-sm);">{{ post.category | default: "Guide" }}</div>
+          </div>
+          <div class="post-card-content">
+            <div class="post-card-meta">
+              <time class="post-card-date" datetime="{{ post.date | date_to_xmlschema }}">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                {{ post.date | date: "%b %d, %Y" }}
+              </time>
+            </div>
+            <h3 class="post-card-title">{{ post.title }}</h3>
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+            <div class="post-card-footer">
+              <span class="post-card-link">Read Guide →</span>
+            </div>
+          </div>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
