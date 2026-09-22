@@ -31,7 +31,7 @@ Pick the Smartwatches that fits your needs and budget — check current best-sel
 
 ## Where to buy
 
-Browse current best-sellers and deals for **[Smartwatches](https://www.amazon.in/s?k=smartwatch&tag=dipankarsstor-21)** on Amazon.
+Browse current best-sellers and deals for **[Smartwatches](https://www.amazon.in/s?k=smartwatch&tag=muneshkumarsh-21)** on Amazon.
 
 ---
-*Disclosure: As an Amazon Associate and affiliate (dipankarsstor-21), this site earns from qualifying purchases at no extra cost to you.*
+*Disclosure: As an Amazon Associate and affiliate (muneshkumarsh-21), this site earns from qualifying purchases at no extra cost to you.*
