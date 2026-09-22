@@ -7,7 +7,7 @@ date: 2000-01-01
 
 {% assign all = site.pages | sort: "date" | reverse %}
 {% assign total_count = 0 %}
-{% for p in all %}{% if p.path contains "/posts/" %}{% assign total_count = total_count | plus: 1 %}{% endif %}{% endfor %}
+{% for p in all %}{% if p.path contains "posts/" %}{% assign total_count = total_count | plus: 1 %}{% endif %}{% endfor %}
 
 {% assign sm_count = 0 %}{% assign sm_first = "#featured" %}
 {% assign ao_count = 0 %}{% assign ao_first = "#featured" %}
@@ -15,7 +15,7 @@ date: 2000-01-01
 {% assign ki_count = 0 %}{% assign ki_first = "#featured" %}
 {% assign he_count = 0 %}{% assign he_first = "#featured" %}
 {% for p in all %}
-{% if p.path contains "/posts/" and p.tags %}
+{% if p.path contains "posts/" and p.tags %}
 {% if p.tags contains "smartwatches" %}{% assign sm_count = sm_count | plus: 1 %}{% if sm_count == 1 %}{% assign sm_first = p.url %}{% endif %}{% endif %}
 {% if p.tags contains "earbuds" or p.tags contains "audio" %}{% assign ao_count = ao_count | plus: 1 %}{% if ao_count == 1 %}{% assign ao_first = p.url %}{% endif %}{% endif %}
 {% if p.tags contains "vacuum" or p.tags contains "smart home" or p.tags contains "camera" %}{% assign sh_count = sh_count | plus: 1 %}{% if sh_count == 1 %}{% assign sh_first = p.url %}{% endif %}{% endif %}
@@ -119,7 +119,7 @@ date: 2000-01-01
       {% assign shown = 0 %}
       {% for p in all %}
         {% if shown < 8 %}
-          {% if p.path contains "/posts/" %}
+{% if p.path contains "posts/" %}
             {% assign shown = shown | plus: 1 %}
             <article class="post-card">
               <div class="post-card-image">
