@@ -152,20 +152,26 @@ date: 2000-01-01
       <p class="section-subtitle">See the instruments in action — thermal, pressure, acoustic, and optical.</p>
     </div>
     <div class="video-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:var(--spacing-6);">
-      {% assign video_slugs = "bestsmartwatches2026|bestpremium-kitchen-appliances2026|security-camera-infrared-scope-night-vision-test|bestrobotic-vacuum-cleaners2026|optical-refractometer-automatic-espresso-machine-vs-pods-tds-test|extracted-rendered-fat-smart-air-fryer-calorie-experiment|ergonomic-chair-vs-gaming-chair-pressure-map-test|clinical-ecg-vs-900-smartwatch-ice-bath-heart-rate-test" | split: "|" %}
-      {% for slug in video_slugs %}
-      {% assign video_url = site.baseurl | append: "/media/" | append: slug | append: "/short.mp4" %}
-      <article class="video-card" style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-xl);overflow:hidden;transition:transform var(--transition-base),box-shadow var(--transition-base);">
-        <video class="video-card-media" controls preload="metadata" style="width:100%;aspect-ratio:16/9;background:#000;display:block;">
-          <source src="{{ video_url }}" type="video/mp4">
-        </video>
-        <div class="video-card-content" style="padding:var(--spacing-4);">
-          <h3 class="video-card-title" style="font-size:var(--fs-lg);font-weight:600;margin-bottom:var(--spacing-2);">
-            <a href="{{ site.baseurl }}/posts/{{ slug }}.html" style="color:var(--color-text);text-decoration:none;">{{ slug | replace: "-", " " | capitalize }}</a>
-          </h3>
-          <a href="{{ site.baseurl }}/posts/{{ slug }}.html" class="btn btn-secondary" style="font-size:var(--fs-sm);">Watch Test →</a>
-        </div>
-      </article>
+      {% assign video_count = 0 %}
+      {% for p in all %}
+        {% if video_count < 8 %}
+          {% if p.path contains "posts/" %}
+            {% assign video_count = video_count | plus: 1 %}
+            {% assign slug = p.url | remove: site.baseurl | remove: "/posts/" | remove: ".html" %}
+            {% assign video_url = site.baseurl | append: "/media/" | append: slug | append: "/short.mp4" %}
+            <article class="video-card" style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-xl);overflow:hidden;transition:transform var(--transition-base),box-shadow var(--transition-base);">
+              <video class="video-card-media" controls preload="metadata" style="width:100%;aspect-ratio:16/9;background:#000;display:block;">
+                <source src="{{ video_url }}" type="video/mp4">
+              </video>
+              <div class="video-card-content" style="padding:var(--spacing-4);">
+                <h3 class="video-card-title" style="font-size:var(--fs-lg);font-weight:600;margin-bottom:var(--spacing-2);">
+                  <a href="{{ p.url }}" style="color:var(--color-text);text-decoration:none;">{{ p.title }}</a>
+                </h3>
+                <a href="{{ p.url }}" class="btn btn-secondary" style="font-size:var(--fs-sm);">Watch Test →</a>
+              </div>
+            </article>
+          {% endif %}
+        {% endif %}
       {% endfor %}
     </div>
     <p style="text-align:center;margin-top:var(--spacing-6);color:var(--color-text-muted);font-size:var(--fs-sm);">
