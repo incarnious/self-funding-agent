@@ -372,6 +372,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: thermal-camera-test-cheap-vs-luxury-hair-dryer"
+    },
+    {
+      "ts": "2026-09-23T14:31:23.968640+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestsmartwatches2026"
     }
   ]
 }
