@@ -4,6 +4,7 @@ title: "I Dropped a $250 Polycarbonate Carry-On Off a 15-Foot Roof to Simulate A
 description: "Over 26 million pieces of luggage are mishandled by airlines worldwide each year, enduring drop-impact forces equivalent to being hurled onto concrete..."
 date: 2026-09-17
 tags: ["Travel Luggage", "Carry On Bag", "Travel Gear", "Product Review", "Durability Test"]
+image: assets/images/2026-09-17-dropped-polycarbonate-carry-on-luggage-durability-test.jpg
 ---
 
 # I Dropped a $250 Polycarbonate Carry-On Off a 15-Foot Roof to Simulate Airline Baggage Abuse—The Frame Reveal Left Me Shocked

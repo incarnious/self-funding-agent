@@ -124,7 +124,11 @@ date: 2000-01-01
             <article class="post-card">
               <div class="post-card-image">
                 <div class="post-card-badge">{% if p.tags %}{{ p.tags.first | capitalize }}{% else %}Guide{% endif %}</div>
+                {% if p.image %}
+                <img src="{{ p.image | relative_url }}" alt="{{ p.title | escape }}" loading="lazy" width="800" height="500">
+                {% else %}
                 <span class="post-card-placeholder" aria-hidden="true">{% if p.tags %}{{ p.tags.first | upcase }}{% else %}GUIDE{% endif %}</span>
+                {% endif %}
               </div>
               <div class="post-card-content">
                 <h3 class="post-card-title">

@@ -4,6 +4,7 @@ title: "I Extracted the Rendered Fat from 100 Smart Air Fryer Meals into a Preci
 description: "I Extracted the Rendered Fat from 100 Smart Air Fryer Meals into a Precision Glass Cylinder—The Saved Calorie Counter Was Mind-Blowing 18,900 calories...."
 date: 2026-09-20
 tags: ["Air Fryer", "Smart Kitchen Tech", "Healthy Eating", "Kitchen Gadgets", "Weight Loss Tech"]
+image: assets/images/2026-09-20-extracted-rendered-fat-smart-air-fryer-calorie-experiment.jpg
 ---
 
 # I Extracted the Rendered Fat from 100 Smart Air Fryer Meals into a Precision Glass Cylinder—The Saved Calorie Counter Was Mind-Blowing

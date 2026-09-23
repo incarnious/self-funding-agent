@@ -4,6 +4,7 @@ title: "I Filmed a $600 Multi-Styler vs. a $30 Curling Iron Under an Industrial 
 description: "I Filmed a $600 Multi-Styler vs. a $30 Curling Iron Under an Industrial Thermal Camera—The Heat-Spike Reveal Solved My Split Ends Nearly 70% of regular..."
 date: 2026-09-19
 tags: ["Beauty Tech", "Hair Care", "Hair Multi-Styler", "Product Comparison", "Thermal Testing"]
+image: assets/images/2026-09-19-thermal-camera-test-multi-styler-vs-curling-iron.jpg
 ---
 
 # I Filmed a $600 Multi-Styler vs. a $30 Curling Iron Under an Industrial Thermal Camera—The Heat-Spike Reveal Solved My Split Ends

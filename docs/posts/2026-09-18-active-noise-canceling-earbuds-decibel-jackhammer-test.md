@@ -4,6 +4,7 @@ title: "I Wore $300 Active Noise-Canceling Earbuds Next to a 115dB Construction 
 description: "I Wore $300 Active Noise-Canceling Earbuds Next to a 115dB Construction Jackhammer—The Decibel Meter Map Revealed What Actually Reached My Eardrums..."
 date: 2026-09-18
 tags: ["True Wireless Earbuds", "Noise Cancellation", "Audio Tech", "Gadget Testing", "Consumer Tech"]
+image: assets/images/2026-09-18-active-noise-canceling-earbuds-decibel-jackhammer-test.jpg
 ---
 
 # I Wore $300 Active Noise-Canceling Earbuds Next to a 115dB Construction Jackhammer—The Decibel Meter Map Revealed What Actually Reached My Eardrums

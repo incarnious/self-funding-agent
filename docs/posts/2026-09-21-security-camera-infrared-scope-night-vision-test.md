@@ -4,6 +4,7 @@ title: "I Tested a $40 Security Camera vs. a $400 Smart Cam with a Military Infr
 description: "I Tested a $40 Security Camera vs. a $400 Smart Cam with a Military Infrared Scope in Pitch Black—The Hidden IR Beam Pattern Explained Every False..."
 date: 2026-09-21
 tags: ["smart home", "security cameras", "tech breakdown", "home security", "gadget test"]
+image: assets/images/2026-09-21-security-camera-infrared-scope-night-vision-test.jpg
 ---
 
 # I Tested a $40 Security Camera vs. a $400 Smart Cam with a Military Infrared Scope in Pitch Black—The Hidden IR Beam Pattern Explained Every False Alarm

@@ -4,6 +4,7 @@ title: "I Hooked an Industrial Wattmeter to a $900 Smart Inverter AC During a 11
 description: "I Hooked an Industrial Wattmeter to a $900 Smart Inverter AC During a 110°F Heatwave—The Real-Time Cost Counter Exposed the '5-Star Rating' Myth 68% of..."
 date: 2026-09-19
 tags: ["Inverter AC", "Smart Home", "Energy Saving", "Home Appliances", "Tech Experiments"]
+image: assets/images/2026-09-19-industrial-wattmeter-inverter-ac-heatwave-cost-test.jpg
 ---
 
 # I Hooked an Industrial Wattmeter to a $900 Smart Inverter AC During a 110°F Heatwave—The Real-Time Cost Counter Exposed the '5-Star Rating' Myth

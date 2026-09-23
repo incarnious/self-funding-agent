@@ -4,6 +4,7 @@ title: "I Hooked a Clinical-Grade Holter ECG to My Chest Alongside a $900 Smartw
 description: "I Hooked a Clinical-Grade Holter ECG to My Chest Alongside a $900 Smartwatch During a 33°F Ice Bath—The Cardiac Drift Graph Exposed the Optical Sensor..."
 date: 2026-09-20
 tags: ["smartwatches", "fitness trackers", "heart rate accuracy", "tech experiment", "garmin ultra"]
+image: assets/images/2026-09-20-clinical-ecg-vs-900-smartwatch-ice-bath-heart-rate-test.jpg
 ---
 
 # I Hooked a Clinical-Grade Holter ECG to My Chest Alongside a $900 Smartwatch During a 33°F Ice Bath—The Cardiac Drift Graph Exposed the Optical Sensor Blind Spot

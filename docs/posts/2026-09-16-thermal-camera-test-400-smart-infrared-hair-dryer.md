@@ -4,6 +4,7 @@ title: "I Put a Thermal Camera on My Hair While Using a $400 Smart Infrared Hair
 description: "I Put a Thermal Camera on My Hair While Using a $400 Smart Infrared Hair Dryer—The Heat Map Revealed Why My Ends Stopped Splitting At 302°F (150°C),..."
 date: 2026-09-16
 tags: ["Hair Tech", "Luxury Grooming", "Hair Care", "Beauty Gadgets", "Tech Review"]
+image: assets/images/2026-09-16-thermal-camera-test-400-smart-infrared-hair-dryer.jpg
 ---
 
 # I Put a Thermal Camera on My Hair While Using a $400 Smart Infrared Hair Dryer—The Heat Map Revealed Why My Ends Stopped Splitting

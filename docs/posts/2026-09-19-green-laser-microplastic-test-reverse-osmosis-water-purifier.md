@@ -4,6 +4,7 @@ title: "I Shined a High-Powered Green Laser Through Tap Water vs. a $600 Counter
 description: "I Shined a High-Powered Green Laser Through Tap Water vs. a $600 Countertop RO Purifier—The Microplastic Beam Reveal Was Horrifying Choosing the right..."
 date: 2026-09-19
 tags: ["Water Purifier", "Reverse Osmosis", "Microplastics", "Home Wellness", "Biohacking"]
+image: assets/images/2026-09-19-green-laser-microplastic-test-reverse-osmosis-water-purifier.jpg
 ---
 
 # I Shined a High-Powered Green Laser Through Tap Water vs. a $600 Countertop RO Purifier—The Microplastic Beam Reveal Was Horrifying

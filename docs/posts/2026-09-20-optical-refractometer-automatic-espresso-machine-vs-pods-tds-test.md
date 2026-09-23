@@ -4,6 +4,7 @@ title: "I Used an Optical Refractometer on a $1,200 Super-Automatic Espresso Mac
 description: "I Used an Optical Refractometer on a $1,200 Super-Automatic Espresso Machine vs. Pods—The Dissolved Solid Extraction Heatmap Revealed How Much \"Coffee\"..."
 date: 2026-09-20
 tags: ["Espresso Machine", "Coffee Tech", "Product Test", "Home Barista", "Smart Appliances"]
+image: assets/images/2026-09-20-optical-refractometer-automatic-espresso-machine-vs-pods-tds-test.jpg
 ---
 
 # I Used an Optical Refractometer on a $1,200 Super-Automatic Espresso Machine vs. Pods—The Dissolved Solid Extraction Heatmap Revealed How Much 'Coffee' Was Actually Extracted

@@ -4,6 +4,7 @@ title: "I Shined a 365nm UV Blacklight Across My 'Clean' Floor Before and After 
 description: "I Shined a 365nm UV Blacklight Across My 'Clean' Floor Before and After a $1,000 AI Robot Vacuum—The Micro-Dust Trace Was Shocking Choosing the right..."
 date: 2026-09-19
 tags: ["Robot Vacuums", "Smart Home", "Tech Experiments", "Cleaning Hacks", "Home Gadgets"]
+image: assets/images/2026-09-19-uv-blacklight-robot-vacuum-micro-dust-test.jpg
 ---
 
 # I Shined a 365nm UV Blacklight Across My 'Clean' Floor Before and After a $1,000 AI Robot Vacuum—The Micro-Dust Trace Was Shocking
