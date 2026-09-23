@@ -38,6 +38,9 @@ date: 2000-01-01
       <a href="#featured" class="btn btn-primary btn-lg">Browse Top Picks</a>
       <a href="#methodology" class="btn btn-secondary btn-lg">How We Test</a>
     </div>
+    <div class="hero-visual" aria-hidden="true">
+      <img src="{{ '/assets/images/hero.jpg' | relative_url }}" alt="" width="1280" height="720">
+    </div>
     <div class="hero-stats">
       <div class="stat">
         <span class="stat-value">{{ total_count }}</span>
