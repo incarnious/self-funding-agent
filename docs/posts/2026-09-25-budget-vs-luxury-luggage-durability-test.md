@@ -4,6 +4,7 @@ title: "I Put a $65 Polycarbonate Suitcase vs a $550 Aluminum Carry-On Through 5
 description: "I Put a $65 Polycarbonate Suitcase vs a $550 Aluminum Carry-On Through 5 Brutal Baggage-Handler Abuse Tests You wouldn't believe that a $65 budget..."
 date: 2026-09-25
 tags: ["Travel Gear", "Luggage Review", "Carry On Suitcase", "Travel Hacks", "Product Stress Test"]
+image: assets/images/2026-09-25-budget-vs-luxury-luggage-durability-test.jpg
 ---
 
 # I Put a $65 Polycarbonate Suitcase vs a $550 Aluminum Carry-On Through 5 Brutal Baggage-Handler Abuse Tests
