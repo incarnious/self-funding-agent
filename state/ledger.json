@@ -438,6 +438,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: i-replaced-daily-vacuuming-with-299-robot-vacuum-30-day-test"
+    },
+    {
+      "ts": "2026-09-25T19:26:13.786107+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: budget-vs-premium-anc-wireless-earbuds-decibel-test"
     }
   ]
 }
