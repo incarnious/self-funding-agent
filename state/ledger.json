@@ -462,6 +462,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: digital-air-fryer-vs-oven-power-bill-test"
+    },
+    {
+      "ts": "2026-09-26T13:50:20.946526+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: under-desk-treadmill-40-hour-work-week-test"
     }
   ]
 }
