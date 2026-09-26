@@ -444,6 +444,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: budget-vs-premium-anc-wireless-earbuds-decibel-test"
+    },
+    {
+      "ts": "2026-09-26T00:04:08.120534+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestpremium-wireless-audio-soundbars2026"
     }
   ]
 }
