@@ -486,6 +486,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: spine-scan-1400-ergonomic-chair-vs-199-amazon-mesh-chair"
+    },
+    {
+      "ts": "2026-09-27T09:02:03.254486+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: locksmith-tests-39-vs-450-smart-lock-security-breakdown"
     }
   ]
 }
