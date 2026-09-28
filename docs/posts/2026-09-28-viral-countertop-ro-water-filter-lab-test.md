@@ -4,6 +4,7 @@ title: "We Sent Tap Water Filtered by 5 Viral RO Systems to a Certified Water Te
 description: "We Sent Tap Water Filtered by 5 Viral RO Systems to a Certified Water Testing Lab—The $299 Countertop Unit Beat the $1,200 Setup If you are serious..."
 date: 2026-09-28
 tags: ["Water Purification", "Reverse Osmosis", "Home Health", "Product Testing", "Biohacking"]
+image: assets/images/2026-09-28-viral-countertop-ro-water-filter-lab-test.jpg
 ---
 
 # We Sent Tap Water Filtered by 5 Viral RO Systems to a Certified Water Testing Lab—The $299 Countertop Unit Beat the $1,200 Setup
