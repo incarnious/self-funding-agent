@@ -546,6 +546,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: bestkitchen-appliances-air-fryers2026"
+    },
+    {
+      "ts": "2026-09-29T21:53:05.007488+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: smoke-chamber-air-purifier-particle-counter-test"
     }
   ]
 }
