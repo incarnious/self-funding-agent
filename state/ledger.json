@@ -528,6 +528,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: bestkitchen-home-appliances-air-fryers-coffee-machines2026"
+    },
+    {
+      "ts": "2026-09-29T00:58:44.394064+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestergonomic-office-chairs-standing-desks2026"
     }
   ]
 }
