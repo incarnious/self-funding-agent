@@ -4,6 +4,7 @@ title: "We Dropped 5 Viral Carry-On Suitcases Off a 30-Foot Roof Onto Concrete�
 description: "We Dropped 5 Viral Carry-On Suitcases Off a 30-Foot Roof Onto Concrete—The $119 Polycarbonate Shell Outlasted the $1,250 Aluminum Legend We’ve all seen..."
 date: 2026-09-30
 tags: ["Travel Luggage", "Carry On Suitcase", "Product Stress Test", "Travel Gear", "Unbreakable Luggage"]
+image: assets/images/2026-09-30-we-dropped-5-viral-carry-ons-off-30-foot-roof.jpg
 ---
 
 # We Dropped 5 Viral Carry-On Suitcases Off a 30-Foot Roof Onto Concrete—The $119 Polycarbonate Shell Outlasted the $1,250 Aluminum Legend
