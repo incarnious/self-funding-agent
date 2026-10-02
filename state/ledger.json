@@ -612,6 +612,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: viral-ergonomic-office-chair-lumbar-pressure-test"
+    },
+    {
+      "ts": "2026-10-02T21:51:36.782318+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestair-purifiers2026"
     }
   ]
 }
