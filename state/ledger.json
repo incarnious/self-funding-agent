@@ -606,6 +606,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: viral-soundbar-anechoic-chamber-test"
+    },
+    {
+      "ts": "2026-10-02T17:17:38.065847+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: viral-ergonomic-office-chair-lumbar-pressure-test"
     }
   ]
 }
