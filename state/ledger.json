@@ -636,6 +636,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: best-viral-wireless-earbuds-noise-cancellation-test"
+    },
+    {
+      "ts": "2026-10-03T18:40:02.305626+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: viral-air-fryer-thermal-moisture-lab-test"
     }
   ]
 }
