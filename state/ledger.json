@@ -618,6 +618,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: bestair-purifiers2026"
+    },
+    {
+      "ts": "2026-10-03T03:10:28.164641+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: viral-hair-styler-microscope-heat-damage-test"
     }
   ]
 }
