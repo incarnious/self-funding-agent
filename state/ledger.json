@@ -666,6 +666,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: no-subscription-local-ai-security-camera"
+    },
+    {
+      "ts": "2026-10-04T20:52:06.767065+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: we-measured-deck-flex-and-motor-heat-across-5-viral-foldable-treadmills"
     }
   ]
 }
