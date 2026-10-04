@@ -660,6 +660,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: viral-carry-on-luggage-drop-and-zipper-durability-test"
+    },
+    {
+      "ts": "2026-10-04T16:24:11.748332+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: no-subscription-local-ai-security-camera"
     }
   ]
 }
