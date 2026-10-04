@@ -4,6 +4,7 @@ title: "We Dropped 5 Viral Carry-Ons Off a 3-Story Platform & Punctured Their Zi
 description: "We Dropped 5 Viral Carry-Ons Off a 3-Story Platform & Punctured Their Zippers—The $139 Polycarbonate Luggage Beat the $850 Luxury Icon When an $850..."
 date: 2026-10-04
 tags: ["Travel Luggage", "Carry On Luggage", "Luggage Stress Test", "Travel Gear", "Smart Travel"]
+image: assets/images/2026-10-04-viral-carry-on-luggage-drop-and-zipper-durability-test.jpg
 ---
 
 # We Dropped 5 Viral Carry-Ons Off a 3-Story Platform & Punctured Their Zippers—The $139 Polycarbonate Luggage Beat the $850 Luxury Icon
