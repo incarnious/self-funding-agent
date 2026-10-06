@@ -33,15 +33,5 @@ Pick the Smartwatches that fits your needs and budget — check current best-sel
 
 Browse current best-sellers and deals for **[Smartwatches](https://www.amazon.in/s?k=smartwatch&tag=muneshkumarsh-21)** on Amazon.
 
-
-## 🛒 Recommended gear
-
-_Handpicked categories to explore (affiliate links):_
-
-- **[AMOLED Bluetooth Calling Smartwatch](https://www.amazon.in/s?k=AMOLED+display+bluetooth+calling+smartwatch&tag=muneshkumarsh-21)**
-- **[22mm Smartwatch Replacement Straps](https://www.amazon.in/s?k=22mm+quick+release+smartwatch+strap+band&tag=muneshkumarsh-21)**
-- **[Smartwatch Tempered Glass Screen Protector](https://www.amazon.in/s?k=tempered+glass+screen+protector+for+smartwatch&tag=muneshkumarsh-21)**
-- **[Magnetic Smartwatch Charging Cable](https://www.amazon.in/s?k=universal+smartwatch+magnetic+charging+cable&tag=muneshkumarsh-21)**
-
 ---
 *Disclosure: As an Amazon Associate and affiliate (muneshkumarsh-21), this site earns from qualifying purchases at no extra cost to you.*
