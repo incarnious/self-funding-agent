@@ -750,6 +750,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: bestsmartwatches2026"
+    },
+    {
+      "ts": "2026-10-09T10:01:29.315717+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: dyson-airwrap-vs-budget-multi-styler-test"
     }
   ]
 }
