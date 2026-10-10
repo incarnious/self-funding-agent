@@ -786,6 +786,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: budget-vs-luxury-4k-dash-cam-night-vision-test"
+    },
+    {
+      "ts": "2026-10-10T21:09:22.446136+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: best-smart-indoor-pizza-ovens-test"
     }
   ]
 }
