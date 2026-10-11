@@ -810,6 +810,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: non-toxic-glass-air-fryer-vs-teflon-test"
+    },
+    {
+      "ts": "2026-10-11T17:16:40.857068+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: budget-tactical-smartwatches-ice-freeze-test"
     }
   ]
 }
