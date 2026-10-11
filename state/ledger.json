@@ -804,6 +804,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: budget-self-emptying-robot-vacuum-pet-hair-test"
+    },
+    {
+      "ts": "2026-10-11T12:03:00.299674+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: non-toxic-glass-air-fryer-vs-teflon-test"
     }
   ]
 }
