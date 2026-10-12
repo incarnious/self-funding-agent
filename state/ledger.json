@@ -828,6 +828,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: bestsmartwatches2026"
+    },
+    {
+      "ts": "2026-10-12T14:09:46.271383+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: we-tested-high-speed-hair-dryers-microscope-heat-damage"
     }
   ]
 }
