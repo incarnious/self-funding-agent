@@ -852,6 +852,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: bestsmartwatches2026"
+    },
+    {
+      "ts": "2026-10-13T13:33:06.747907+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestsmartwatches-wearables2026"
     }
   ]
 }
