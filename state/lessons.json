@@ -1,73 +1,73 @@
 {
-  "ts": "2026-09-22T19:21:45.237840+00:00",
-  "generation": 18,
-  "assets_seen": 36,
+  "ts": "2026-10-13T01:57:51.447092+00:00",
+  "generation": 21,
+  "assets_seen": 42,
   "best_styles": [
     [
       "price_shock",
-      1.92,
-      9
+      1.975,
+      36
     ],
     [
       "shock_stat",
-      1.795,
-      183
+      1.797,
+      246
     ],
     [
       "secret_reveal",
-      1.754,
-      148
+      1.753,
+      178
     ]
   ],
   "weak_styles": [
     [
       "shock_stat",
-      1.795,
-      183
+      1.797,
+      246
     ],
     [
       "secret_reveal",
-      1.754,
-      148
+      1.753,
+      178
     ],
     [
       "question_hook",
       1.74,
-      18
+      21
     ]
   ],
   "best_categories": [
     [
+      "makeup & beauty",
+      2.1,
+      2
+    ],
+    [
       "face & skin care",
-      1.997,
-      7
+      2.018,
+      22
     ],
     [
       "men's grooming",
-      1.982,
-      35
-    ],
-    [
-      "smart home accessories",
-      1.9,
-      8
+      1.983,
+      60
     ]
   ],
   "weak_categories": [
     [
       "grooming",
       1.74,
-      49
+      61
     ],
     [
       "kitchen",
-      1.588,
-      63
+      1.586,
+      81
     ],
     [
       "decor",
       1.58,
-      30
+      39
     ]
   ],
   "video": {
@@ -75,8 +75,8 @@
     "avg_opportunity": 76.5
   },
   "post_only": {
-    "count": 34,
-    "avg_opportunity": 74.853
+    "count": 40,
+    "avg_opportunity": 76.675
   },
-  "guidance": "lean into face & skin care, men's grooming, smart home accessories; favor hooks that Lead with a 'you won't believe the price' angle; avoid over-using the shock stat angle."
+  "guidance": "lean into makeup & beauty, face & skin care, men's grooming; favor hooks that Lead with a 'you won't believe the price' angle; avoid over-using the shock stat angle."
 }

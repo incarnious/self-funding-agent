@@ -840,6 +840,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: best-ergonomic-office-chair-lumbar-pressure-test"
+    },
+    {
+      "ts": "2026-10-13T01:57:51.449144+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "night: 6 assets"
     }
   ]
 }

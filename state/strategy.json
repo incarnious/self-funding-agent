@@ -1,8 +1,8 @@
 {
   "styles": {
     "shock_stat": {
-      "count": 183,
-      "reward": 328.4200000000003
+      "count": 246,
+      "reward": 442.0600000000008
     },
     "mistake_warning": {
       "count": 0,
@@ -21,52 +21,56 @@
       "reward": 0.0
     },
     "question_hook": {
-      "count": 18,
-      "reward": 31.319999999999986
+      "count": 21,
+      "reward": 36.53999999999999
     },
     "secret_reveal": {
-      "count": 148,
-      "reward": 259.62000000000006
+      "count": 178,
+      "reward": 312.00000000000034
     },
     "price_shock": {
-      "count": 9,
-      "reward": 17.28
+      "count": 36,
+      "reward": 71.10000000000004
     }
   },
   "categories": {
     "beauty": {
-      "count": 150,
-      "reward": 276.29999999999995
+      "count": 183,
+      "reward": 336.9600000000004
     },
     "grooming": {
-      "count": 49,
-      "reward": 85.25999999999996
+      "count": 61,
+      "reward": 106.1399999999999
     },
     "kitchen": {
-      "count": 63,
-      "reward": 100.02
+      "count": 81,
+      "reward": 128.45999999999995
     },
     "decor": {
-      "count": 30,
-      "reward": 47.39999999999997
+      "count": 39,
+      "reward": 61.619999999999955
     },
     "men's grooming": {
-      "count": 35,
-      "reward": 69.36000000000004
+      "count": 60,
+      "reward": 118.98000000000002
     },
     "kitchen & cookware": {
-      "count": 16,
-      "reward": 29.11999999999999
+      "count": 22,
+      "reward": 40.03999999999999
     },
     "smart home accessories": {
-      "count": 8,
-      "reward": 15.200000000000001
+      "count": 11,
+      "reward": 20.9
     },
     "face & skin care": {
-      "count": 7,
-      "reward": 13.98
+      "count": 22,
+      "reward": 44.40000000000002
+    },
+    "makeup & beauty": {
+      "count": 2,
+      "reward": 4.2
     }
   },
-  "updated": "2026-09-22T19:21:45.235185+00:00",
-  "generation": 18
+  "updated": "2026-10-13T01:57:51.444921+00:00",
+  "generation": 21
 }

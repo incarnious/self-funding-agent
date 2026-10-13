@@ -430,5 +430,83 @@
     "manual_link": false,
     "created": "2026-09-22T19:19:13.773003+00:00",
     "logged": "2026-09-22T19:20:29.638221+00:00"
+  },
+  {
+    "id": "aa86ca147da0",
+    "product": "Philips BT3221/15 Corded & Cordless Titanium Blade Beard Trimmer",
+    "category": "men's grooming",
+    "style": "price_shock",
+    "opportunity": 90.0,
+    "video": null,
+    "image": "media/philips-bt322115-corded-cordless-titanium-blade-beard-trimme/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Philips+BT3221+15+beard+trimmer+for+men&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-10-13T01:36:24.686178+00:00",
+    "logged": "2026-10-13T01:37:40.663304+00:00"
+  },
+  {
+    "id": "304e608d429a",
+    "product": "Minimalist 10% Niacinamide Face Serum for Acne Marks",
+    "category": "face & skin care",
+    "style": "price_shock",
+    "opportunity": 90.0,
+    "video": null,
+    "image": "media/minimalist-10-niacinamide-face-serum-for-acne-marks-price_sh/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Minimalist+10+Niacinamide+Face+Serum&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-10-13T01:40:11.716438+00:00",
+    "logged": "2026-10-13T01:41:27.860844+00:00"
+  },
+  {
+    "id": "d15b6364b10b",
+    "product": "Cetaphil Gentle Skin Cleanser for Dry to Normal Sensitive Skin",
+    "category": "face & skin care",
+    "style": "price_shock",
+    "opportunity": 90.0,
+    "video": null,
+    "image": "media/cetaphil-gentle-skin-cleanser-for-dry-to-normal-sensitive-sk/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Cetaphil+Gentle+Skin+Cleanser&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-10-13T01:43:58.906015+00:00",
+    "logged": "2026-10-13T01:45:14.823653+00:00"
+  },
+  {
+    "id": "ab0018264e6f",
+    "product": "Maybelline New York Fit Me Matte + Poreless Liquid Foundation",
+    "category": "makeup & beauty",
+    "style": "price_shock",
+    "opportunity": 90.0,
+    "video": null,
+    "image": "media/maybelline-new-york-fit-me-matte-poreless-liquid-foundation-/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=maybelline+fit+me+liquid+foundation&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-10-13T01:47:45.992371+00:00",
+    "logged": "2026-10-13T01:49:01.975263+00:00"
+  },
+  {
+    "id": "83ce11ebe119",
+    "product": "Beardo Beard and Hair Growth Oil",
+    "category": "men's grooming",
+    "style": "price_shock",
+    "opportunity": 81.0,
+    "video": null,
+    "image": "media/beardo-beard-and-hair-growth-oil-price_shock/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Beardo+beard+growth+oil&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-10-13T01:51:33.017925+00:00",
+    "logged": "2026-10-13T01:52:48.905670+00:00"
+  },
+  {
+    "id": "20f98c3b6e07",
+    "product": "Gillette Mach3 Turbo Razor for Men",
+    "category": "men's grooming",
+    "style": "price_shock",
+    "opportunity": 81.0,
+    "video": null,
+    "image": "media/gillette-mach3-turbo-razor-for-men-price_shock/thumbnail.jpg",
+    "buy_url": "https://www.amazon.in/s?k=Gillette+Mach3+Turbo+razor&tag=muneshkumarsh-21",
+    "manual_link": false,
+    "created": "2026-10-13T01:55:19.978447+00:00",
+    "logged": "2026-10-13T01:56:35.985231+00:00"
   }
 ]
