@@ -4,6 +4,7 @@ title: "I Scanned My Spine After 1,000 Hours in a $1,400 Ergonomic Chair vs a $1
 description: "I Scanned My Spine After 1,000 Hours in a $1,400 Ergonomic Chair vs a $199 Amazon Mesh Chair—Here Is What the Orthopedist Found We willingly spend $80..."
 date: 2026-09-27
 tags: ["Ergonomic Office Chairs", "Work From Home", "Back Pain Relief", "Office Setup", "Health Tech"]
+image: assets/images/2026-09-27-spine-scan-1400-ergonomic-chair-vs-199-amazon-mesh-chair.jpg
 ---
 
 # I Scanned My Spine After 1,000 Hours in a $1,400 Ergonomic Chair vs a $199 Amazon Mesh Chair—Here Is What the Orthopedist Found
