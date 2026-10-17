@@ -966,6 +966,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: zero-stove-cooking-experiment-dual-zone-smart-air-fryer"
+    },
+    {
+      "ts": "2026-10-17T12:50:56.859088+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: coffee-math-automatic-espresso-machine-experiment"
     }
   ]
 }
