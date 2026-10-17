@@ -984,6 +984,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 14-hour-humidity-stress-test-multi-styler-dupe-vs-airwrap"
+    },
+    {
+      "ts": "2026-10-17T23:06:53.376600+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestsmart-kitchen-coffee-appliances2026"
     }
   ]
 }
