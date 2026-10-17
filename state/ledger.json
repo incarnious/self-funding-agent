@@ -978,6 +978,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: polycarbonate-hardshell-luggage-set-airport-test"
+    },
+    {
+      "ts": "2026-10-17T20:09:31.582392+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 14-hour-humidity-stress-test-multi-styler-dupe-vs-airwrap"
     }
   ]
 }
