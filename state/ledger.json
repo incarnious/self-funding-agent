@@ -960,6 +960,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: cozy-cardio-under-desk-walking-pad-30-day-test"
+    },
+    {
+      "ts": "2026-10-17T07:35:17.467692+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: zero-stove-cooking-experiment-dual-zone-smart-air-fryer"
     }
   ]
 }
