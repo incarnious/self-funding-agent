@@ -1002,6 +1002,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 30-day-bedroom-air-purifier-laser-sensor-experiment"
+    },
+    {
+      "ts": "2026-10-18T13:11:29.978684+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 30-day-ergonomic-mesh-chair-posture-test"
     }
   ]
 }
