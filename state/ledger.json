@@ -1020,6 +1020,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: smartwatch-body-fat-sensor-vs-dexa-scan-accuracy-test"
+    },
+    {
+      "ts": "2026-10-18T23:00:48.059517+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 8-week-half-leg-ipl-hair-removal-experiment"
     }
   ]
 }
