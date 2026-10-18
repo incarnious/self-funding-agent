@@ -1008,6 +1008,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 30-day-ergonomic-mesh-chair-posture-test"
+    },
+    {
+      "ts": "2026-10-18T17:59:24.648223+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: i-tracked-stress-and-sleep-30-days-smart-ring-hrv-burnout-test"
     }
   ]
 }
