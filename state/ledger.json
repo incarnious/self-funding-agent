@@ -996,6 +996,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: robot-vacuum-pet-hair-14-day-test"
+    },
+    {
+      "ts": "2026-10-18T07:51:03.104986+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 30-day-bedroom-air-purifier-laser-sensor-experiment"
     }
   ]
 }
