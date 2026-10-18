@@ -1014,6 +1014,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: i-tracked-stress-and-sleep-30-days-smart-ring-hrv-burnout-test"
+    },
+    {
+      "ts": "2026-10-18T20:10:54.691510+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: smartwatch-body-fat-sensor-vs-dexa-scan-accuracy-test"
     }
   ]
 }
