@@ -4,6 +4,7 @@ title: "The 30-Day Bedroom Air Audit: I Left a $500 Smart HEPA Purifier Next to 
 description: "The 30-Day Bedroom Air Audit: I Left a $500 Smart HEPA Purifier Next to My Bed—Here’s What the Laser Sensor Caught You won't believe the price tag on..."
 date: 2026-10-18
 tags: ["Air Purifiers", "Smart Home Tech", "Home Health", "Allergy Relief", "Product Reviews"]
+image: assets/images/2026-10-18-30-day-bedroom-air-purifier-laser-sensor-experiment.jpg
 ---
 
 # The 30-Day Bedroom Air Audit: I Left a $500 Smart HEPA Purifier Next to My Bed—Here’s What the Laser Sensor Caught

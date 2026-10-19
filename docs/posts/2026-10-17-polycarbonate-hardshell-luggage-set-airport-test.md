@@ -4,6 +4,7 @@ title: "I Put a $150 Polycarbonate Hard-Shell Luggage Set Through 5 Airport Nigh
 description: "I Put a $150 Polycarbonate Hard-Shell Luggage Set Through 5 Airport Nightmare Tests—Here’s the Verdict You won’t believe the price tag on modern travel..."
 date: 2026-10-17
 tags: ["Travel Luggage", "Hard Trolley Sets", "Travel Hacks", "Packing Guide", "Luggage Review"]
+image: assets/images/2026-10-17-polycarbonate-hardshell-luggage-set-airport-test.jpg
 ---
 
 # I Put a $150 Polycarbonate Hard-Shell Luggage Set Through 5 Airport Nightmare Tests—Here’s the Verdict
