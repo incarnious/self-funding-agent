@@ -1032,6 +1032,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: decibel-isolation-test-flagship-anc-headphones-review"
+    },
+    {
+      "ts": "2026-10-19T08:36:01.796693+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 30-day-dual-zone-digital-air-fryer-electricity-oil-audit"
     }
   ]
 }
