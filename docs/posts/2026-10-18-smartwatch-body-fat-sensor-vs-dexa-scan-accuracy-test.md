@@ -4,6 +4,7 @@ title: "I Tested My $300 Smartwatch’s Body Fat Sensor Against a $150 Medical D
 description: "I Tested My $300 Smartwatch’s Body Fat Sensor Against a $150 Medical DEXA Scan—Here’s How Accurate It Really Is You won't believe the price gap between..."
 date: 2026-10-18
 tags: ["Smartwatches", "Wearable Tech", "Biohacking", "Fitness Trackers", "Tech Reviews"]
+image: assets/images/2026-10-18-smartwatch-body-fat-sensor-vs-dexa-scan-accuracy-test.jpg
 ---
 
 # I Tested My $300 Smartwatch’s Body Fat Sensor Against a $150 Medical DEXA Scan—Here’s How Accurate It Really Is
