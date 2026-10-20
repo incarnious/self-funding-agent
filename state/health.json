@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-19T22:08:25.346394+00:00",
+  "ts": "2026-10-20T02:55:37.894333+00:00",
   "healthy": true,
   "checks": {
     "llm": {
@@ -10,17 +10,17 @@
     },
     "renderer": {
       "ok": true,
-      "note": "ok",
+      "note": "ffmpeg missing (silent video only)",
       "circuit_open": false
     },
     "disk": {
-      "free_gb": 82.46,
+      "free_gb": 82.03,
       "ok": true
     },
     "site": {
       "docs_exists": true,
       "index_exists": true,
-      "posts": 128,
+      "posts": 129,
       "ok": true
     },
     "incidents_24h": {}
