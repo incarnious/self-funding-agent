@@ -4,6 +4,7 @@ title: "The 30-Day Power & Oil Audit: I Cooked Every Meal in a $180 Dual-Zone Di
 description: "The 30-Day Power & Oil Audit: I Cooked Every Meal in a $180 Dual-Zone Digital Air Fryer—Here’s What Happened to My Electric Bill and Health You won't..."
 date: 2026-10-19
 tags: ["Digital Air Fryers", "Kitchen Tech", "Smart Cooking", "Product Review", "Energy Saving Hacks"]
+image: assets/images/2026-10-19-30-day-dual-zone-digital-air-fryer-electricity-oil-audit.jpg
 ---
 
 # The 30-Day Power & Oil Audit: I Cooked Every Meal in a $180 Dual-Zone Digital Air Fryer—Here’s What Happened to My Electric Bill and Health
