@@ -4,6 +4,7 @@ title: "The 90dB Decibel Isolation Test: I Wore $400 Flagship ANC Headphones Nex
 description: "The 90dB Decibel Isolation Test: I Wore $400 Flagship ANC Headphones Next to a Subway Train and Construction Site—Here’s What the Sound Meter Proved..."
 date: 2026-10-19
 tags: ["Premium Audio", "Wireless Headphones", "Noise Canceling", "Tech Review", "Productivity Tech"]
+image: assets/images/2026-10-19-decibel-isolation-test-flagship-anc-headphones-review.jpg
 ---
 
 # The 90dB Decibel Isolation Test: I Wore $400 Flagship ANC Headphones Next to a Subway Train and Construction Site—Here’s What the Sound Meter Proved

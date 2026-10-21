@@ -1092,6 +1092,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: airport-baggage-handler-torture-test-luggage-drop"
+    },
+    {
+      "ts": "2026-10-21T14:40:25.168974+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: hepa-air-purifier-laser-particle-test"
     }
   ]
 }
