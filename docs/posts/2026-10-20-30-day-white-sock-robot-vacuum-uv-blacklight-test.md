@@ -4,6 +4,7 @@ title: "The 30-Day White Sock Experiment: I Ran a $1,000 Auto-Empty Robot Vacuum
 description: "The 30-Day White Sock Experiment: I Ran a $1,000 Auto-Empty Robot Vacuum Every Day—Here’s What UV Blacklight Inspection Caught When you tell someone..."
 date: 2026-10-20
 tags: ["Robot Vacuum", "Smart Home", "Home Automation", "Cleaning Hacks", "Tech Review"]
+image: assets/images/2026-10-20-30-day-white-sock-robot-vacuum-uv-blacklight-test.jpg
 ---
 
 # The 30-Day White Sock Experiment: I Ran a $1,000 Auto-Empty Robot Vacuum Every Day—Here’s What UV Blacklight Inspection Caught
