@@ -1116,6 +1116,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 90-percent-humidity-steam-test-viral-multi-styler-hair-appliances-dyson-dupe"
+    },
+    {
+      "ts": "2026-10-22T08:25:33.308245+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 105db-jet-engine-anc-headphone-test"
     }
   ]
 }
