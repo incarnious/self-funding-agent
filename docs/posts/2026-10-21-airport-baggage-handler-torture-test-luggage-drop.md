@@ -4,6 +4,7 @@ title: "The Airport Baggage Handler Torture Test: I Dropped 3 Polycarbonate Lugg
 description: "The Airport Baggage Handler Torture Test: I Dropped 3 Polycarbonate Luggage Sets Off a 12-Foot Roof—Here’s Which Zipper & Shell Survived If you’ve ever..."
 date: 2026-10-21
 tags: ["Travel Gear", "Hard Shell Luggage", "Suitcase Review", "Travel Accessories", "Torture Test"]
+image: assets/images/2026-10-21-airport-baggage-handler-torture-test-luggage-drop.jpg
 ---
 
 # The Airport Baggage Handler Torture Test: I Dropped 3 Polycarbonate Luggage Sets Off a 12-Foot Roof—Here’s Which Zipper & Shell Survived
