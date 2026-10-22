@@ -1122,6 +1122,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 105db-jet-engine-anc-headphone-test"
+    },
+    {
+      "ts": "2026-10-22T14:35:19.965363+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: flagship-robot-vacuum-mop-hair-tangle-stress-test"
     }
   ]
 }
