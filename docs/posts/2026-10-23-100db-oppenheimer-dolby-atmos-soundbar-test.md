@@ -4,6 +4,7 @@ title: "The 100dB Oppenheimer Explosion Test: I Measured 4 Dolby Atmos Soundbars
 description: "The 100dB Oppenheimer Explosion Test: I Measured 4 Dolby Atmos Soundbars with a 3D Spatial Mic—Here’s Which $400 Setup Outperforms a $1,500 Cinema..."
 date: 2026-10-23
 tags: ["dolby atmos", "soundbar", "home theatre", "audio technology", "tech review"]
+image: assets/images/2026-10-23-100db-oppenheimer-dolby-atmos-soundbar-test.jpg
 ---
 
 # The 100dB Oppenheimer Explosion Test: I Measured 4 Dolby Atmos Soundbars with a 3D Spatial Mic—Here’s Which $400 Setup Outperforms a $1,500 Cinema

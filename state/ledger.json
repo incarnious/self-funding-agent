@@ -1146,6 +1146,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 100db-oppenheimer-dolby-atmos-soundbar-test"
+    },
+    {
+      "ts": "2026-10-23T08:24:17.185477+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 900f-thermal-camera-portable-pizza-oven-test"
     }
   ]
 }
