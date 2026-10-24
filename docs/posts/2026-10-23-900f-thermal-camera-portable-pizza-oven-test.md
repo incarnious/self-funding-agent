@@ -4,6 +4,7 @@ title: "The 900°F Thermal Camera Stress Test: I Fired 40 Neapolitan Pies in 4 P
 description: "The 900°F Thermal Camera Stress Test: I Fired 40 Neapolitan Pies in 4 Portable Outdoor Pizza Ovens—Here’s Which One Hits a 60-Second Crust Without..."
 date: 2026-10-23
 tags: ["Kitchen Gadgets", "Outdoor Cooking", "Pizza Ovens", "Product Review", "Tech Testing"]
+image: assets/images/2026-10-23-900f-thermal-camera-portable-pizza-oven-test.jpg
 ---
 
 # The 900°F Thermal Camera Stress Test: I Fired 40 Neapolitan Pies in 4 Portable Outdoor Pizza Ovens—Here’s Which One Hits a 60-Second Crust Without Burning

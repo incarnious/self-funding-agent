@@ -1188,6 +1188,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: rugged-gps-smartwatch-ecg-accuracy-test"
+    },
+    {
+      "ts": "2026-10-24T18:03:07.798120+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: espresso-machine-9-bar-tds-refractometer-test"
     }
   ]
 }
