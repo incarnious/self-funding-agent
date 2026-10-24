@@ -1164,6 +1164,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 24-hour-under-desk-walking-pad-thermal-stress-test"
+    },
+    {
+      "ts": "2026-10-24T00:02:18.925403+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: precision-fat-extraction-thermal-test-dual-zone-air-fryers"
     }
   ]
 }
