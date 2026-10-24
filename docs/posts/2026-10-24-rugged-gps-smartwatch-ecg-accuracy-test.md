@@ -4,6 +4,7 @@ title: "The 190 BPM Extreme Sprint & Sub-Zero Cold Test: We Calibrated 4 Rugged 
 description: "The 190 BPM Extreme Sprint & Sub-Zero Cold Test: We Calibrated 4 Rugged GPS Smartwatches Against a Medical ECG—Here’s Which $180 Watch Matched It When..."
 date: 2026-10-24
 tags: ["Smartwatches", "Fitness Wearables", "Tech Reviews", "Biohacking", "Gear Testing"]
+image: assets/images/2026-10-24-rugged-gps-smartwatch-ecg-accuracy-test.jpg
 ---
 
 # The 190 BPM Extreme Sprint & Sub-Zero Cold Test: We Calibrated 4 Rugged GPS Smartwatches Against a Medical ECG—Here’s Which $180 Watch Matched It
