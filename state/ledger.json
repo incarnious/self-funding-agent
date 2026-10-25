@@ -1236,6 +1236,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 120db-jet-cabin-anc-headphones-acoustic-test"
+    },
+    {
+      "ts": "2026-10-25T23:18:36.249046+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: black-dust-secret-hvac-techs-air-purifier"
     }
   ]
 }

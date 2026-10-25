@@ -4,6 +4,7 @@ title: "The 30-Foot Baggage Drop & Concrete Drag Test: We Tortured 4 Polycarbona
 description: "The 30-Foot Baggage Drop & Concrete Drag Test: We Tortured 4 Polycarbonate Luggage Sets—Here’s Which $130 Set Beat $900 Designer Brands You don’t need..."
 date: 2026-10-25
 tags: ["Luggage Sets", "Travel Gear", "Hard Shell Luggage", "Product Testing", "Travel Deals"]
+image: assets/images/2026-10-25-30-foot-baggage-drop-concrete-drag-luggage-test.jpg
 ---
 
 # The 30-Foot Baggage Drop & Concrete Drag Test: We Tortured 4 Polycarbonate Luggage Sets—Here’s Which $130 Set Beat $900 Designer Brands
