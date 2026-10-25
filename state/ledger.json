@@ -1224,6 +1224,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 30-foot-baggage-drop-concrete-drag-luggage-test"
+    },
+    {
+      "ts": "2026-10-25T18:17:43.779626+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 300lb-impact-noise-test-smart-folding-treadmills"
     }
   ]
 }
