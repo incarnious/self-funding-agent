@@ -1254,6 +1254,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: thermal-image-keratin-test-hair-multi-styler-airwrap-dupe"
+    },
+    {
+      "ts": "2026-10-26T16:02:31.685874+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 99-humidity-ionic-hair-dryer-test"
     }
   ]
 }
