@@ -1242,6 +1242,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: black-dust-secret-hvac-techs-air-purifier"
+    },
+    {
+      "ts": "2026-10-26T02:43:09.011492+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: dermatologist-benchmarked-at-home-ipl-hair-removal"
     }
   ]
 }
