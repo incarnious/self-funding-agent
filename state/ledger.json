@@ -1302,6 +1302,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: signal-jamming-lock-pick-smart-deadbolt-test"
+    },
+    {
+      "ts": "2026-10-28T18:00:31.750168+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: under-desk-treadmill-neat-fat-loss-guide"
     }
   ]
 }
