@@ -1320,6 +1320,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: pitch-black-night-vision-wireless-solar-security-camera-test"
+    },
+    {
+      "ts": "2026-10-29T12:17:17.703370+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: moisture-retaining-thermal-test-high-speed-hair-dryers-dyson-dupe"
     }
   ]
 }
