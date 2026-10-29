@@ -4,6 +4,7 @@ title: "The Pitch-Black 150-Foot Night-Vision Test: We Stress-Tested 4 Wireless 
 description: "The Pitch-Black 150-Foot Night-Vision Test: We Stress-Tested 4 Wireless Solar Security Cameras—Here’s Which $59 AI Unit Out-Detected a $450 Flagship..."
 date: 2026-10-29
 tags: ["smart home", "security cameras", "tech reviews", "home security", "budget tech"]
+image: assets/images/2026-10-29-pitch-black-night-vision-wireless-solar-security-camera-test.jpg
 ---
 
 # The Pitch-Black 150-Foot Night-Vision Test: We Stress-Tested 4 Wireless Solar Security Cameras—Here’s Which $59 AI Unit Out-Detected a $450 Flagship

@@ -1326,6 +1326,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: moisture-retaining-thermal-test-high-speed-hair-dryers-dyson-dupe"
+    },
+    {
+      "ts": "2026-10-29T18:22:51.259355+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: thermal-test-dual-zone-air-fryers-budget-vs-convection-oven"
     }
   ]
 }
