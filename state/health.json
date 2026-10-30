@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-30T17:44:53.043016+00:00",
+  "ts": "2026-10-30T22:04:33.671856+00:00",
   "healthy": true,
   "checks": {
     "llm": {
@@ -20,7 +20,7 @@
     "site": {
       "docs_exists": true,
       "index_exists": true,
-      "posts": 178,
+      "posts": 179,
       "ok": true
     },
     "incidents_24h": {}
