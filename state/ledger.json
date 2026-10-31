@@ -1356,6 +1356,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: best-smart-steam-air-fryer-test"
+    },
+    {
+      "ts": "2026-10-31T03:42:15.831661+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: pfas-heavy-metal-lab-test-countertop-ro-water-purifier"
     }
   ]
 }
