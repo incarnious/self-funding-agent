@@ -1380,6 +1380,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 110db-jet-engine-anc-earbuds-torture-test"
+    },
+    {
+      "ts": "2026-11-01T00:14:03.779939+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 0-lux-pitch-black-4k-security-camera-test"
     }
   ]
 }
