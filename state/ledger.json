@@ -1392,6 +1392,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 19-bar-espresso-machine-refractometer-torture-test"
+    },
+    {
+      "ts": "2026-11-01T12:39:30.600713+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: physical-therapists-top-ergonomic-chair-under-200"
     }
   ]
 }
