@@ -1398,6 +1398,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: physical-therapists-top-ergonomic-chair-under-200"
+    },
+    {
+      "ts": "2026-11-01T19:35:31.704519+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: why-remote-workers-are-buying-this-foldable-under-desk-treadmill"
     }
   ]
 }
