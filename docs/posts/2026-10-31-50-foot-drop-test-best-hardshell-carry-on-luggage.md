@@ -4,6 +4,7 @@ title: "The 50-Foot Roof Drop & Cobblestone Torture Test: We Stress-Tested 4 Har
 description: "The 50-Foot Roof Drop & Cobblestone Torture Test: We Stress-Tested 4 Hardshell Carry-Ons—Here’s Which $99 Polycarbonate Spinner Out-Survived a $1,400..."
 date: 2026-10-31
 tags: ["Travel Luggage", "Carry On Suitcase", "Luggage Stress Test", "Best Spinner Wheels", "Travel Gear"]
+image: assets/images/2026-10-31-50-foot-drop-test-best-hardshell-carry-on-luggage.jpg
 ---
 
 # The 50-Foot Roof Drop & Cobblestone Torture Test: We Stress-Tested 4 Hardshell Carry-Ons—Here’s Which $99 Polycarbonate Spinner Out-Survived a $1,400 Luxury Aluminum Case
