@@ -4,6 +4,7 @@ title: "Why Sports Scientists Are Ditching $2,500 Pelotons for This $179 Under-D
 description: "Why Sports Scientists Are Ditching $2,500 Pelotons for This $179 Under-Desk Treadmill to Burn 500 Extra Calories Daily Without Sweating When you think..."
 date: 2026-10-28
 tags: ["home gym", "fitness tech", "weight loss", "desk setup", "motorized treadmill"]
+image: assets/images/2026-10-28-under-desk-treadmill-neat-fat-loss-guide.jpg
 ---
 
 # Why Sports Scientists Are Ditching $2,500 Pelotons for This $179 Under-Desk Treadmill to Burn 500 Extra Calories Daily Without Sweating

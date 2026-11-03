@@ -1422,6 +1422,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: why-pet-owners-ditch-expensive-roombas-for-budget-lidar-robot-vacuum"
+    },
+    {
+      "ts": "2026-11-03T05:00:09.631036+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestlarge-home-appliances2026"
     }
   ]
 }
