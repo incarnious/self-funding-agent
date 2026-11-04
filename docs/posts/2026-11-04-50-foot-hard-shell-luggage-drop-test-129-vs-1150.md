@@ -4,6 +4,7 @@ title: "The 50-Foot Baggage Handler Drop Test: We Threw 4 Hard-Shell Carry-Ons O
 description: "The 50-Foot Baggage Handler Drop Test: We Threw 4 Hard-Shell Carry-Ons Off a Building—Here’s Which $129 Polycarbonate Set Out-Survived a $1,150 Luxury..."
 date: 2026-11-04
 tags: ["Travel Gear", "Luggage", "Carry On Suitcase", "Product Testing", "Hard Shell Luggage"]
+image: assets/images/2026-11-04-50-foot-hard-shell-luggage-drop-test-129-vs-1150.jpg
 ---
 
 # The 50-Foot Baggage Handler Drop Test: We Threw 4 Hard-Shell Carry-Ons Off a Building—Here’s Which $129 Polycarbonate Set Out-Survived a $1,150 Luxury Trunk
