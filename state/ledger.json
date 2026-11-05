@@ -1470,6 +1470,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 0-1-micron-laser-particle-test-hepa-smart-air-purifier"
+    },
+    {
+      "ts": "2026-11-05T19:34:43.582347+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 115-db-jet-cabin-acoustic-test-anc-headphones"
     }
   ]
 }
