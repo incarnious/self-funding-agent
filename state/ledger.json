@@ -1488,6 +1488,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: lidar-robot-vacuum-pet-hair-cable-test"
+    },
+    {
+      "ts": "2026-11-06T19:32:27.335047+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: thermal-stress-test-air-styler-dupe-vs-dyson"
     }
   ]
 }
