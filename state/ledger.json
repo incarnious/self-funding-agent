@@ -1524,6 +1524,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: super-automatic-espresso-machine-lab-extraction-test"
+    },
+    {
+      "ts": "2026-11-08T12:46:07.573767+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 1000-wing-thermal-test-smart-dual-basket-air-fryers"
     }
   ]
 }
