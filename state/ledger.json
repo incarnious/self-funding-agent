@@ -1530,6 +1530,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 1000-wing-thermal-test-smart-dual-basket-air-fryers"
+    },
+    {
+      "ts": "2026-11-08T19:32:05.427601+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 1000-pick-thermal-spoof-smart-lock-test"
     }
   ]
 }
