@@ -4,6 +4,7 @@ title: "The 18-Gram Extraction & TDS Lab Test: We Refractometer-Tested 4 Super-A
 description: "The 18-Gram Extraction & TDS Lab Test: We Refractometer-Tested 4 Super-Automatic Espresso Machines—Here’s Which $349 Compact Unit Out-Brewed a $2,400..."
 date: 2026-11-08
 tags: ["Espresso Machines", "Coffee Tech", "Kitchen Appliances", "Product Testing", "Home Barista"]
+image: assets/images/2026-11-08-super-automatic-espresso-machine-lab-extraction-test.jpg
 ---
 
 # The 18-Gram Extraction & TDS Lab Test: We Refractometer-Tested 4 Super-Automatic Espresso Machines—Here’s Which $349 Compact Unit Out-Brewed a $2,400 Italian Setup
