@@ -1572,6 +1572,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: best-dolby-atmos-soundbar-dialogue-clarity"
+    },
+    {
+      "ts": "2026-11-11T04:08:31.938565+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 100db-cabin-engine-anc-headphones-decibel-test"
     }
   ]
 }
