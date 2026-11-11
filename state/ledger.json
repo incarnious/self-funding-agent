@@ -1578,6 +1578,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 100db-cabin-engine-anc-headphones-decibel-test"
+    },
+    {
+      "ts": "2026-11-11T13:31:47.439513+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 50-sample-water-lab-test-ro-uv-purifier"
     }
   ]
 }
