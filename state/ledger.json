@@ -1602,6 +1602,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 0-lux-night-vision-wireless-security-camera-test"
+    },
+    {
+      "ts": "2026-11-12T21:57:56.951469+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 300-shot-espresso-machine-lab-test"
     }
   ]
 }
