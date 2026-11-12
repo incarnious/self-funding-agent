@@ -1596,6 +1596,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 500-steak-thermal-test-best-smart-combi-air-fryer"
+    },
+    {
+      "ts": "2026-11-12T14:35:58.709685+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 0-lux-night-vision-wireless-security-camera-test"
     }
   ]
 }
