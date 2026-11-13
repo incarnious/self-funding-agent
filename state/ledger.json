@@ -1614,6 +1614,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 100-baggage-drop-crush-test-budget-carry-on-vs-luxury"
+    },
+    {
+      "ts": "2026-11-13T14:09:41.993629+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 500g-pet-hair-robot-vacuum-lab-test"
     }
   ]
 }
