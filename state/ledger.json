@@ -1608,6 +1608,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 300-shot-espresso-machine-lab-test"
+    },
+    {
+      "ts": "2026-11-13T04:34:05.106992+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 100-baggage-drop-crush-test-budget-carry-on-vs-luxury"
     }
   ]
 }

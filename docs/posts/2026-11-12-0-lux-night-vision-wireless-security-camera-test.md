@@ -4,6 +4,7 @@ title: "The 0-Lux Pitch-Black Intruder Test: We Staged 50 Night Break-Ins Across
 description: "The 0-Lux Pitch-Black Intruder Test: We Staged 50 Night Break-Ins Across 4 Wireless Cameras—Here’s Which $49 No-Subscription Unit Out-Spied a $350..."
 date: 2026-11-12
 tags: ["Smart Home", "Security Cameras", "Tech Reviews", "Home Safety"]
+image: assets/images/2026-11-12-0-lux-night-vision-wireless-security-camera-test.jpg
 ---
 
 # The 0-Lux Pitch-Black Intruder Test: We Staged 50 Night Break-Ins Across 4 Wireless Cameras—Here’s Which $49 No-Subscription Unit Out-Spied a $350 System
