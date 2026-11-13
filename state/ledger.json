@@ -1620,6 +1620,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 500g-pet-hair-robot-vacuum-lab-test"
+    },
+    {
+      "ts": "2026-11-13T21:26:11.991987+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 200-degree-hair-multi-styler-heat-damage-test-dyson-airwrap-dupe"
     }
   ]
 }
