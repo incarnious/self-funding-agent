@@ -1626,6 +1626,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 200-degree-hair-multi-styler-heat-damage-test-dyson-airwrap-dupe"
+    },
+    {
+      "ts": "2026-11-14T04:24:12.231682+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 100-cone-smoke-chamber-air-purifier-laser-test"
     }
   ]
 }
