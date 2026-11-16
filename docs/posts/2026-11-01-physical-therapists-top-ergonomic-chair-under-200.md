@@ -4,6 +4,7 @@ title: "Why Physical Therapists Are Ditching $1,500 Herman Millers for This $180
 description: "Why Physical Therapists Are Ditching $1,500 Herman Millers for This $180 Ergonomic Mesh Chair If you’ve ever traded a $150 designer face serum for an..."
 date: 2026-11-01
 tags: ["ergonomic chair", "office furniture", "back pain relief", "desk setup", "work from home"]
+image: assets/images/2026-11-01-physical-therapists-top-ergonomic-chair-under-200.jpg
 ---
 
 # Why Physical Therapists Are Ditching $1,500 Herman Millers for This $180 Ergonomic Mesh Chair
