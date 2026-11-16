@@ -4,6 +4,7 @@ title: "The 1,000-Wing Thermal Imaging Test: We Stress-Tested 4 Smart Dual-Baske
 description: "The 1,000-Wing Thermal Imaging Test: We Stress-Tested 4 Smart Dual-Basket Air Fryers—Here’s Which $129 Unit Out-Crisped a $2,500 Professional..."
 date: 2026-11-08
 tags: ["Air Fryer", "Smart Kitchen", "Cooking Appliances", "Kitchen Tech", "Product Review"]
+image: assets/images/2026-11-08-1000-wing-thermal-test-smart-dual-basket-air-fryers.jpg
 ---
 
 # The 1,000-Wing Thermal Imaging Test: We Stress-Tested 4 Smart Dual-Basket Air Fryers—Here’s Which $129 Unit Out-Crisped a $2,500 Professional Convection Oven
