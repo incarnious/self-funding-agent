@@ -1680,6 +1680,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 50-flight-luggage-drop-test-best-hardshell-carry-on"
+    },
+    {
+      "ts": "2026-11-17T06:04:56.336656+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 15-bar-espresso-machine-refractometer-test"
     }
   ]
 }
