@@ -1716,6 +1716,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 90db-wind-tunnel-anc-earbuds-test"
+    },
+    {
+      "ts": "2026-11-19T11:29:09.833521+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: thermal-test-5-high-velocity-hair-multi-stylers"
     }
   ]
 }
