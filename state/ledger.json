@@ -1734,6 +1734,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: thermal-camera-air-fryer-test-89-dollar-winner"
+    },
+    {
+      "ts": "2026-11-20T11:05:09.730700+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 28-day-visia-scanner-led-mask-test"
     }
   ]
 }
