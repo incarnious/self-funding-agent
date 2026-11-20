@@ -1740,6 +1740,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 28-day-visia-scanner-led-mask-test"
+    },
+    {
+      "ts": "2026-11-20T19:45:10.384405+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: 72-hour-ecg-smartwatch-accuracy-test"
     }
   ]
 }
