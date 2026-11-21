@@ -4,6 +4,7 @@ title: "The 28-Day Collagen Density & Visia Scanner Test: We Derm-Mapped 5 Clini
 description: "The 28-Day Collagen Density & Visia Scanner Test: We Derm-Mapped 5 Clinical LED Light Therapy Masks—Here’s Which $149 Medical-Grade Unit Out-Performed..."
 date: 2026-11-20
 tags: ["skincare", "led light therapy", "dermatology tech", "anti aging", "beauty dupes"]
+image: assets/images/2026-11-20-28-day-visia-scanner-led-mask-test.jpg
 ---
 
 # The 28-Day Collagen Density & Visia Scanner Test: We Derm-Mapped 5 Clinical LED Light Therapy Masks—Here’s Which $149 Medical-Grade Unit Out-Performed a $1,800 Med-Spa Series

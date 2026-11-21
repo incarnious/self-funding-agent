@@ -1746,6 +1746,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 72-hour-ecg-smartwatch-accuracy-test"
+    },
+    {
+      "ts": "2026-11-21T02:14:12.586745+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: polycarbonate-luggage-drop-crush-test"
     }
   ]
 }
