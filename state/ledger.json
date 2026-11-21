@@ -1758,6 +1758,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: under-desk-treadmill-thermal-endurance-test"
+    },
+    {
+      "ts": "2026-11-21T18:48:41.767175+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: espresso-machine-tds-extraction-test-budget-vs-flagship"
     }
   ]
 }
