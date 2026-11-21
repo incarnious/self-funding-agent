@@ -1752,6 +1752,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: polycarbonate-luggage-drop-crush-test"
+    },
+    {
+      "ts": "2026-11-21T10:53:23.480129+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: under-desk-treadmill-thermal-endurance-test"
     }
   ]
 }
