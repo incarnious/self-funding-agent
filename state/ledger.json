@@ -1800,6 +1800,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: dual-basket-glass-air-fryer-oven-replacement-review"
+    },
+    {
+      "ts": "2026-11-24T07:58:56.634496+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: transepidermal-water-loss-peptide-serum-lab-test"
     }
   ]
 }

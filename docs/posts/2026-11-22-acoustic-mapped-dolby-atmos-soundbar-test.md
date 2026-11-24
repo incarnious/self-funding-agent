@@ -4,6 +4,7 @@ title: "The 120Hz Frequency Response & Dialogue Clarity Test: We Acoustic-Mapped
 description: "The 120Hz Frequency Response & Dialogue Clarity Test: We Acoustic-Mapped 5 Dolby Atmos Soundbars—Here’s Which $179 System Out-Sounded a $1,300 Setup..."
 date: 2026-11-22
 tags: ["Home Audio", "Soundbars", "Dolby Atmos", "Tech Reviews", "Home Theater"]
+image: assets/images/2026-11-22-acoustic-mapped-dolby-atmos-soundbar-test.jpg
 ---
 
 # The 120Hz Frequency Response & Dialogue Clarity Test: We Acoustic-Mapped 5 Dolby Atmos Soundbars—Here’s Which $179 System Out-Sounded a $1,300 Setup
