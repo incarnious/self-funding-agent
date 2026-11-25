@@ -1818,6 +1818,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: ultra-compact-airplane-travel-stroller-test"
+    },
+    {
+      "ts": "2026-11-25T16:46:43.564306+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: gate-agent-audit-zipperless-carry-on-luggage"
     }
   ]
 }
