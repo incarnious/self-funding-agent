@@ -4,6 +4,7 @@ title: "The 1,000-Volt EMP & Cyber-Bypass Stress Test: We Penetration-Tested 5 S
 description: "The 1,000-Volt EMP & Cyber-Bypass Stress Test: We Penetration-Tested 5 Smart Door Locks—Here’s Which $139 Biometric Lock Out-Secured a $750 High-End..."
 date: 2026-11-23
 tags: ["smart home security", "digital door locks", "biometric smart locks", "home security tech", "smart home gadgets"]
+image: assets/images/2026-11-23-1000v-emp-cyber-bypass-smart-lock-test.jpg
 ---
 
 # The 1,000-Volt EMP & Cyber-Bypass Stress Test: We Penetration-Tested 5 Smart Door Locks—Here’s Which $139 Biometric Lock Out-Secured a $750 High-End System

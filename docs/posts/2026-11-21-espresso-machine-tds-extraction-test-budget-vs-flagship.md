@@ -4,6 +4,7 @@ title: "The 19-Bar Pressure & Refractometer Extraction Test: We TDS-Audited 5 Au
 description: "The 19-Bar Pressure & Refractometer Extraction Test: We TDS-Audited 5 Automatic Espresso Machines—Here’s Which $399 Compact Unit Out-Extracted a $2,400..."
 date: 2026-11-21
 tags: ["Espresso Machines", "Coffee Tech", "Product Testing", "Kitchen Appliances", "Budget vs Luxury"]
+image: assets/images/2026-11-21-espresso-machine-tds-extraction-test-budget-vs-flagship.jpg
 ---
 
 # The 19-Bar Pressure & Refractometer Extraction Test: We TDS-Audited 5 Automatic Espresso Machines—Here’s Which $399 Compact Unit Out-Extracted a $2,400 Italian Flagship

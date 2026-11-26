@@ -4,6 +4,7 @@ title: "The 50-Foot Drop & Airport Baggage-Crush Test: We Stress-Tested 5 Polyca
 description: "The 50-Foot Drop & Airport Baggage-Crush Test: We Stress-Tested 5 Polycarbonate Carry-Ons—Here’s Which $99 Hardshell Out-Survived a $1,200 Luxury Icon..."
 date: 2026-11-21
 tags: ["travel gear", "luggage review", "carry-on luggage", "polycarbonate luggage", "travel tech"]
+image: assets/images/2026-11-21-polycarbonate-luggage-drop-crush-test.jpg
 ---
 
 # The 50-Foot Drop & Airport Baggage-Crush Test: We Stress-Tested 5 Polycarbonate Carry-Ons—Here’s Which $99 Hardshell Out-Survived a $1,200 Luxury Icon
