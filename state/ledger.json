@@ -1848,6 +1848,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: 14-day-battery-amoled-smartwatch-audit"
+    },
+    {
+      "ts": "2026-11-27T16:29:51.497994+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: bestair-fryers-smart-kitchen-appliances2026"
     }
   ]
 }
