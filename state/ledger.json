@@ -1854,6 +1854,12 @@
       "kind": "cost",
       "amount": -0.0,
       "note": "cycle: bestair-fryers-smart-kitchen-appliances2026"
+    },
+    {
+      "ts": "2026-11-28T01:12:55.715480+00:00",
+      "kind": "cost",
+      "amount": -0.0,
+      "note": "cycle: trichologist-keratin-test-plasma-coanda-hair-styler"
     }
   ]
 }
